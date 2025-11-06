@@ -17,3 +17,6 @@ This is a simple single-page CV website for Easton Hans. The project is built us
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
+
+
+   https://roadmap.sh/projects/single-page-cv
