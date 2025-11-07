@@ -10,8 +10,6 @@ This is a simple single-page CV website for Easton Hans. The project is built us
 
 ## Technologies Used
 - HTML5
-- CSS3 (optional)
-- JavaScript (optional)
 
 ## How to Run Locally
 1. Clone the repository:
